@@ -4,13 +4,13 @@ Fork from [dmitry](http://github.com/dmitry/yUMLmeRails/) < [nelsonsilva](http:/
 
 This is a simple plugin that adds Rake tasks to display model diagrams for RoR apps.
 
-It uses an extended RailRoad to output yUML diagrams which are drawn using the service at [yUML](http://yuml.me)
+It uses an extended RailRoad to output yUML diagrams which are drawn using the service at [yUML](http://yuml.dev)
 
 There's also a small Shoes app to display the downloaded diagram.
 
 ## Example
 
-<img src="http://yuml.me/diagram/scruffy/class/[User],[Task],[Assignment],[Status],[User]1-*[Assignment],[Task]1-*[Assignment],[Task]1-*[Status]"/>
+<img src="http://yuml.dev/diagram/scruffy/class/[User],[Task],[Assignment],[Status],[User]1-*[Assignment],[Task]1-*[Assignment],[Task]1-*[Status]"/>
 
 ## Requirements
 
